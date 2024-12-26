@@ -1,0 +1,10 @@
+insert into users (id, name, age) values (1, 'Maddy', 50);
+insert into users (id, name, age) values (2, 'Ford', 50);
+insert into users (id, name, age) values (3, 'Lucia', 18);
+insert into users (id, name, age) values (4, 'Gavan', 25);
+insert into users (id, name, age) values (5, 'Marvin', 50);
+insert into users (id, name, age) values (6, 'Rutherford', 30);
+insert into users (id, name, age) values (7, 'Betty', 38);
+insert into users (id, name, age) values (8, 'Annalise', 42);
+insert into users (id, name, age) values (9, 'Joelle', 25);
+insert into users (id, name, age) values (10, 'Rudolph', 38);
